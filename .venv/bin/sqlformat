@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/alexanderschofer/Desktop/Schreibtisch – MacBook Pro von Alex/Developer Akademie/Projekte/first_django_project/.venv/bin/python3" "$0" "$@"
+'''exec' "/Users/alexanderschofer/Desktop/Schreibtisch – MacBook Pro von Alex/Developer Akademie/Projekte/first_django_project/.venv/bin/python3.14" "$0" "$@"
 ' '''
 import sys
 from sqlparse.__main__ import main

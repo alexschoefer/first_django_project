@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/alexanderschofer/Desktop/Schreibtisch – MacBook Pro von Alex/Developer Akademie/Projekte/first_django_project/.venv/bin/python3" "$0" "$@"
+'''exec' "/Users/alexanderschofer/Desktop/Schreibtisch – MacBook Pro von Alex/Developer Akademie/Projekte/first_django_project/.venv/bin/python3.14" "$0" "$@"
 ' '''
 import sys
 from django.core.management import execute_from_command_line
